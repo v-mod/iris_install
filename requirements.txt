@@ -4,11 +4,12 @@ wolframalpha
 pytesseract
 Pillow
 datetime
-PyAudio
-speechrecognition
 wheel
 ecapture
 requests
 pynput
 pyjokes
 flask
+PyAudio
+speechrecognition
+pyttsx3
